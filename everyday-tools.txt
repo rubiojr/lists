@@ -1,0 +1,8 @@
+=: title Every day tools (for a computer geek)
+=> https://github.com/go-shiori/shiori
+=> https://elv.sh
+=> https://starship.rs
+=> https://github.com/junegunn/fzf
+=> https://neovim.io
+=> https://rclone.org
+=> https://restic.net

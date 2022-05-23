@@ -1,0 +1,2 @@
+=: title lists.sh hacks 🕱
+=> https://me.rbel.co/posts/lists-sh-hacks
